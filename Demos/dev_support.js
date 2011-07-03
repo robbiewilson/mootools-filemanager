@@ -1,4 +1,3 @@
-
 // couple of development support functions:
 //
 // (c) Copyright 2011, Ger Hobbelt ( http://hebbut.net/ )
@@ -151,6 +150,7 @@ debug.log = function()
 {
 
 };
+test
 
 debug.makehtml = function(text)
 {
